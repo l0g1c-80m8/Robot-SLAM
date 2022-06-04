@@ -37,6 +37,8 @@ Run the following commands in separate terminals:
 View the map using the command: <code>rtabmap-databaseViewer ~/.ros/rtabmap.db</code> <br>
 If you used a custom file path use that in the above command.
 <br>
-[ROS]: wiki.ros.org/kinetic/
-[rviz]: http://wiki.ros.org/rviz
-[rtabmap_ros]: https://github.com/introlab/rtabmap_ros
+
+#### References
+- [ROS]: wiki.ros.org/kinetic/
+- [rviz]: http://wiki.ros.org/rviz
+- [rtabmap_ros]: https://github.com/introlab/rtabmap_ros
