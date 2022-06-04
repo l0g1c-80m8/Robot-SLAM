@@ -11,7 +11,7 @@ This project aims to perform SLAM on a robot housed in a Gazebo world using rtab
 
 **Author: Rutvik Patel<br />**
 
-The my_robot package has been tested under [ROS] Kinetic on respectively Ubuntu 16.04.7 LTS (Xenial Xerus).
+The my_robot package has been tested under [ROS] Kinetic on Ubuntu 16.04.7 LTS (Xenial Xerus).
 This is research code, expect that it won't be maintained for future ROS versions.
 
 
