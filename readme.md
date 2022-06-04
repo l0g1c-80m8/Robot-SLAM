@@ -4,9 +4,7 @@
 
 THis project aims to perform SLAM on a robot housed in a Gazebo world using rtabmap_ros package.
 
-**Keywords:** slam, rtab-slam, 
-
-Or, add some keywords to the Bitbucket or GitHub repository.
+**Keywords:** slam, rtab-slam, localization, mapping.
 
 **Author: Rutvik Patel<br />**
 
