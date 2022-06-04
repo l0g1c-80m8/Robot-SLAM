@@ -1,8 +1,11 @@
 # Map My World Project (SLAM)
 
+### Final Map
+The resultant map on running SLAM on RoboOfficeWorld can be found here: [rtabslam-db-file](https://drive.google.com/file/d/1J0RtKdJ89nbWJgpstc6RqvkBwl6vI73n/view?usp=sharing)  
+
 ## Overview
 
-THis project aims to perform SLAM on a robot housed in a Gazebo world using rtabmap_ros package.
+This project aims to perform SLAM on a robot housed in a Gazebo world using rtabmap_ros package.
 
 **Keywords:** slam, rtab-slam, localization, mapping.
 
