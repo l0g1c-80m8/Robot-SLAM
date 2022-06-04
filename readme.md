@@ -39,6 +39,6 @@ If you used a custom file path use that in the above command.
 <br>
 
 #### References
-- [ROS]: wiki.ros.org/kinetic/
-- [rviz]: http://wiki.ros.org/rviz
-- [rtabmap_ros]: https://github.com/introlab/rtabmap_ros
+- [ROS](wiki.ros.org/kinetic/)
+- [rviz](http://wiki.ros.org/rviz)
+- [rtabmap_ros](https://github.com/introlab/rtabmap_ros)
