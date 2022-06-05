@@ -1,7 +1,7 @@
 # Map My World Project (SLAM)
 
 ### Final Map
-The resultant map on running SLAM on RoboOfficeWorld can be found here: [rtabslam-db-file](https://drive.google.com/file/d/1J3LRk5MrrSiNusbP_XRIERLJIi04HPUA/view?usp=sharing)  
+The resultant map on running SLAM on RoboOfficeWorld can be found here: [rtabslam-db-file](https://drive.google.com/file/d/1J3LRk5MrrSiNusbP_XRIERLJIi04HPUA/view?usp=sharing) 
 
 ## Overview
 
